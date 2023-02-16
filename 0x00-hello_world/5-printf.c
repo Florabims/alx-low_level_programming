@@ -1,10 +1,10 @@
 #include <stdio.h>
-main - Entry  
-return: Always 0
-imt main(void)
+/**
+*main-Entry  
+*Return: Always 0
+*/
+int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\ln");
-	retun (0);
-}
-
-			
+printf("with proper grammar, but the outcome is a piece of art,\ln");
+return (0);
+}	
